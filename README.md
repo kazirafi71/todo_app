@@ -1,16 +1,11 @@
 # todo_app
 
-A new Flutter project.
+This is basic todo application build by Flutter. </br>
+Features:
+1. Add new todo item.
+2. Delete todo.
+3. Search todo.
+4. Complete todo.
 
-## Getting Started
+  ![Alt Text](https://github.com/kazirafi71/todo_app/assets/71788254/ff25e674-e48c-4abb-bdd7-4a6a8a808389){:height="20px"}
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
